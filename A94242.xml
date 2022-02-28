@@ -1,0 +1,1666 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Schedule, or, list of the prisoners in the fleet, remaining in custody May 25, 1653. With the times of their commitment, and the causes of their detention. As also, a list of those prisoners that are gone out, taking the benefit of the act of Parliament for reliefe of poore prisoners; and the justices names before whom they took their oath. Delivered by Mr. Henry Hopkins warden of the fleet, to the committee appointed by the Counsell of State for examining the state of the said prison. It being desired by severall of their creditors, the list of the prisoners might be printed, for the better information of such as were concerned therein, it was ordered by the committee to be printed accordingly. Col. Thomas Pride. Col. Thomlinson. Col. Cooper. Mr. John Fountaine. Mr. Richard Wollaston. Mr. Margets, Judge Advocate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94242</idno>
+            <idno type="STC">Wing S850</idno>
+            <idno type="STC">Wing H2744</idno>
+            <idno type="STC">Thomason E698_13</idno>
+            <idno type="STC">ESTC R23287</idno>
+            <idno type="EEBO-CITATION">99871954</idno>
+            <idno type="PROQUEST">99871954</idno>
+            <idno type="VID">166546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166546)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E698[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Schedule, or, list of the prisoners in the fleet, remaining in custody May 25, 1653. With the times of their commitment, and the causes of their detention. As also, a list of those prisoners that are gone out, taking the benefit of the act of Parliament for reliefe of poore prisoners; and the justices names before whom they took their oath. Delivered by Mr. Henry Hopkins warden of the fleet, to the committee appointed by the Counsell of State for examining the state of the said prison. It being desired by severall of their creditors, the list of the prisoners might be printed, for the better information of such as were concerned therein, it was ordered by the committee to be printed accordingly. Col. Thomas Pride. Col. Thomlinson. Col. Cooper. Mr. John Fountaine. Mr. Richard Wollaston. Mr. Margets, Judge Advocate.</title>
+                  <author>Hopkins, Henry, Warden of the Fleet.</author>
+               </titleStmt>
+               <extent>[2], 5, [1], 9-20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S.G. for Livewell Chapman, and are to be sold at his shop at the Crown in Popes-head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "June 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  Great Britain --  Registers --  Early works to 1800.</term>
+               <term>Poor --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166546:1" rendition="simple:additions"/>
+            <p>A SCHEDULE, Or, LIST Of the Priſoners in the FLEET, remaining in cuſtody <hi>May</hi> 25. 1653. With the times of their commitment, and the cauſes of their Detention.</p>
+            <p>As alſo, A Liſt of thoſe Priſoners that are gone out, taking the benefit of the Act of Parliament for reliefe of poore priſoners; and the Juſtices names before whom they took their oath.</p>
+            <p>Delivered by Mr. <hi>Henry Hopkins</hi> Warden of the <hi>Fleet,</hi> to the Committee appointed by the Counſell of State for examining the ſtate of the ſaid Priſon.</p>
+            <p>It being deſired by ſeverall of their Creditors, the Liſt of the Priſoners might be printed, for the better information of ſuch as were concerned therein, It was ordered by the Committee to be printed accordingly.</p>
+            <list>
+               <item>Col. <hi>Thomas Pride.</hi>
+               </item>
+               <item>Col. <hi>Thomlinſon.</hi>
+               </item>
+               <item>Col. <hi>Cooper.</hi>
+               </item>
+               <item>Mr. <hi>John Fountaine.</hi>
+               </item>
+               <item>Mr. <hi>Richard Wollaſton.</hi>
+               </item>
+               <item>Mr. <hi>Margets,</hi> Judge Advocate.</item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. G.</hi> for <hi>Livewell Chapman,</hi> and are to be ſold at his ſhop at the Crown in Popes-head Alley. 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166546:2"/>
+            <pb n="1" facs="tcp:166546:2"/>
+            <div type="prisoners_detained">
+               <head>A Schedule of the Names of ſuch Priſoners as are under the charge of the War<g ref="char:EOLhyphen"/>den of the Fleet, together with the times of their commitments, and their Charges thereupon.</head>
+               <list>
+                  <item>
+                     <hi>
+                        <seg rend="decorInit">G</seg>Iles Winſton</hi> committed 1 <hi>June</hi> 1627. for 228 <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution and 66 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4<abbr>
+                        <hi>d.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>William Roberts</hi> committed 6 <hi>Sept.</hi> 1647. Execution 1412 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Action, 150 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Outlawry, and a Bill of <hi>Middleſex.</hi>
+                  </item>
+                  <item>
+                     <hi>William Andrewes</hi> committed 9 <hi>March</hi> 1652, Acti<g ref="char:EOLhyphen"/>on 310 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Roger Halford</hi> committed 2 <hi>July</hi> 1652. Execution 484 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> be<g ref="char:EOLhyphen"/>ſides Outlawries and Treſpaſſes.</item>
+                  <item>
+                     <hi>Thomas Burton</hi> committed 21 <hi>February</hi> 1652. upon an Order for not performing a Decree in Chancery.</item>
+                  <item>
+                     <hi>Edward Cogan</hi> committed 15 <hi>March</hi> 1652. Execution 401 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 600 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and an Attachment.</item>
+                  <item>
+                     <hi>Abraham Delean</hi> committed 5 <hi>March</hi> 1652. for 10 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>Edmond Haſtings</hi> committed 25 <hi>June</hi> 1652. Executions 1729 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Outlawries, Actions 2600 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides an Attachment.</item>
+                  <item>
+                     <hi>Edward Mar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Wingfield</hi> committed 30 <hi>June</hi> 1652. Executions 362 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 15. <abbr>
+                        <hi>s.</hi>
+                     </abbr> Outlawrie after Judgement, Judgement 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Acti<g ref="char:EOLhyphen"/>ons, 3148 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Theodocia</hi> Lady <hi>Treſham</hi> committed 18 <hi>November</hi> 1650. for 406 <abbr>
+                        <hi>l.</hi>
+                     </abbr> upon Action.</item>
+                  <item>
+                     <hi>William Brown</hi> committed 9 <hi>June</hi> 1651. Actions 1950 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Muſgrave</hi> committed 12 <hi>Febr.</hi> 1652. Execution 33 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> beſides Actions and Treſpaſſes.</item>
+                  <item>
+                     <hi>Martin Call</hi> committed 10 <hi>Jan.</hi> 1652. upon a Treſpaſſe and At<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>
+                     <hi>George Wilſon</hi> committed 29 <hi>March</hi> 1653. for 70 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action beſides an Attachment.</item>
+                  <item>
+                     <hi>Edward Rumſey</hi> committed 17 <hi>June</hi> 1651. Execution 406 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 3110 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>John Nurſe</hi> committed 5 <hi>March</hi> 1652. upon pleas of Treſpaſſe.</item>
+                  <pb n="2" facs="tcp:166546:3"/>
+                  <item>
+                     <hi>James Cox</hi> committed 25 <hi>Feb.</hi> 1639. for 207 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution, and 880 <abbr>
+                        <hi>l.</hi>
+                     </abbr> debt upon Action.</item>
+                  <item>
+                     <hi>Robert Perry</hi> committed 23 <hi>Decemb.</hi> 1652. Action 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides At<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>
+                     <hi>William Shuttlewood</hi> committed 14 <hi>Feb.</hi> 1652. Execution 203 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10<abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides Action and Treſpaſſe.</item>
+                  <item>
+                     <hi>George Morgan</hi> committed 15 <hi>Feb.</hi> 1644 upon 720 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Edmond Winſtandley</hi> committed 15 <hi>July</hi> 1652. Execution 103 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 5<abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Thomas King</hi> committed 12 <hi>June</hi> 1652. Execution 405 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4<abbr>
+                        <hi>d.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>William Gregory</hi> committed 7 <hi>Feb.</hi> 1651. one Outlawry after Judg<g ref="char:EOLhyphen"/>ment, ſeverall other Outlawries and Freſpaſſes, no ſums menti<g ref="char:EOLhyphen"/>oned.</item>
+                  <item>
+                     <hi>Richard Haynes</hi> committed 8 <hi>March</hi> 1652. Action 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſe.</item>
+                  <item>
+                     <hi>Huſtwayte Wright</hi> committed 29 <hi>June</hi> 1650. for 31 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Executi<g ref="char:EOLhyphen"/>on, beſides Outlawries, Latitats, and Cap. no ſum appearing.</item>
+                  <item>
+                     <hi>Benjamin Otwell</hi> committed 16 <hi>Febr.</hi> 1652. 531 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Action and an Attachment.</item>
+                  <item>
+                     <hi>Richard Parmee</hi> committed 24 <hi>Jan.</hi> 1651. Execution 56 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 14 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>d.</hi>
+                     </abbr> beſides Treſpaſſes and Attachment.</item>
+                  <item>
+                     <hi>John Harris</hi> committed 21 <hi>Jan.</hi> 1652 for 126 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action and a Latitat.</item>
+                  <item>
+                     <hi>Mathew Browne</hi> committed 29 <hi>Nov.</hi> 1652. Action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>Sir <hi>Henry Griffith</hi> committed 20 <hi>Jan.</hi> 1652. for 520 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>John Pollard</hi> committed 6 <hi>Nov.</hi> 1652. Executions 1407 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 13 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Outlawries, Actions 600 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Elizabeth Lee</hi> committed 4 <hi>Aprill</hi> 1648. Execution 28 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and At<g ref="char:EOLhyphen"/>tachment of pri.</item>
+                  <item>
+                     <hi>Margery Noble</hi> committed 15 <hi>Jan.</hi> 1651. Action 9 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Manniſty</hi> committed 25 <hi>Novemb.</hi> 1650 Action 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and a Latitat.</item>
+                  <item>
+                     <hi>Dorothy Himton</hi> committed 24 <hi>Jan.</hi> 1651. upon a contempt out of Chancery.</item>
+                  <item>
+                     <hi>Jacob Coldridge</hi> committed 3 <hi>Aprill</hi> 1648. upon Actions 61 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 8 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Buſhell</hi> committed 11 <hi>January.</hi> 1652. upon Action 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and a Latitat.</item>
+                  <item>
+                     <hi>Dorothy Arundell</hi> committed 9 <hi>November</hi> 1652. Execution for 362 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <pb n="3" facs="tcp:166546:3"/>
+                  <item>
+                     <hi>Thomas Allen</hi> committed 9 <hi>Auguſt</hi> 1651. for 2883 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>Anne Vanenden</hi> committed 27 <hi>Januarie</hi> 1651. upon Execution for 362 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>Sir <hi>John Tompſon</hi> committed 29 <hi>Novemb.</hi> 1652. for 700 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action, a Latitat and Action of Treſpaſſe.</item>
+                  <item>
+                     <hi>Thomas Aſhfield</hi> committed 27 <hi>January</hi> 1651. upon Execution for 2236 <abbr>
+                        <hi>l.</hi>
+                     </abbr> one Outlawry, Actions 1630 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 3<abbr>
+                        <hi>s.</hi>
+                     </abbr> 10<abbr>
+                        <hi>d.</hi>
+                     </abbr> beſides Actions of Treſpaſſes.</item>
+                  <item>
+                     <hi>Joſiah Knight</hi> committed 25 <hi>November</hi> 1652. an Action of Debt &amp; a plea of treſpaſſe, no ſumme mentioned.</item>
+                  <item>
+                     <hi>Cornelius Arian de Crookes</hi> committed 13 <hi>April</hi> 1653. by Warrant from the Councell of State.</item>
+                  <item>
+                     <hi>William Ellis</hi> committed 1 <hi>February</hi> 1650. upon Execution for 22 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2<abbr>
+                        <hi>s.</hi>
+                     </abbr>1<abbr>
+                        <hi>d.</hi>
+                     </abbr> and Outlawry after Judgement, Outlawry before Judge<g ref="char:EOLhyphen"/>ment and Actions.</item>
+                  <item>
+                     <hi>Jefferey le Neave</hi> committed 24 <hi>Nov.</hi> 1652. for 40<abbr>
+                        <hi>l.</hi>
+                     </abbr> Action, a Bill of Midd. and an Action of Treſpaſſe.</item>
+                  <item>
+                     <hi>Thomas Cheetle</hi> committed 15 <hi>April</hi> 1653. Execution for 200<abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>John Bretland</hi> committed 22 <hi>December</hi> 1649. from the Commiitee of the Revenue.</item>
+                  <item>Sir <hi>Edmond Plowden,</hi> committed 26 April 1653. upon contempt for not performance of a Decree in Chancery.</item>
+                  <item>
+                     <hi>John Gualter,</hi> committed 3 July 1650. upon 98 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> execution, and 3920 <abbr>
+                        <hi>l.</hi>
+                     </abbr> actions.</item>
+                  <item>
+                     <hi>Marke Thody,</hi> committed 24 November 1652. upon a bill Midd. and Attachment.</item>
+                  <item>
+                     <hi>William Bletſoe,</hi> committed 27 May 1650. upon 733 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> execu<g ref="char:EOLhyphen"/>tion, and 6 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 14 <abbr>
+                        <hi>s.</hi>
+                     </abbr> action, beſides three Latitats, and one Out<g ref="char:EOLhyphen"/>lawry.</item>
+                  <item>Sir <hi>Henry Anderſon,</hi> committed 27 May 1650. execution 302 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 11 <abbr>
+                        <hi>s.</hi>
+                     </abbr> actions 400 <abbr>
+                        <hi>l</hi>
+                     </abbr> beſides treſpaſſes and attachment.</item>
+                  <item>
+                     <hi>Bryan Stapleton,</hi> committed 8 November 1652. action 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> attach<g ref="char:EOLhyphen"/>ment, pri.</item>
+                  <item>
+                     <hi>Liſter Blount,</hi> committed 26 February 1652. execution 103 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides actions of treſpaſſes.</item>
+                  <item>
+                     <hi>William Rudierd,</hi> 13 February 1651. executions 1703 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr> actions 750 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſes.</item>
+                  <item>
+                     <hi>Daniel Pudſey,</hi> committed 1 October 1652. upon bill Midd. treſpaſſe and attachment.</item>
+                  <pb n="4" facs="tcp:166546:4"/>
+                  <item>
+                     <hi>Bernard Dormer</hi> committed 19 <hi>October</hi> 1641. Execution 201 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10<abbr>
+                        <hi>s.</hi>
+                     </abbr> and Actions 11 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Robert Becket</hi> committed 2 <hi>July</hi> 1652. Execution 281 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Acti<g ref="char:EOLhyphen"/>on 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>John Golegan</hi> committed 25 <hi>Sept.</hi> 1652. Action 25 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</hi> committed 18 <hi>Nov.</hi> 1648. for 102 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Executi<g ref="char:EOLhyphen"/>on, and 240 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <item>
+                     <hi>William Gerrard</hi> committed 22 <hi>Oct.</hi> 1651. for 900. <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions, one Outlawry, Bill <hi>Middleſex,</hi> and an Attachment.</item>
+                  <item>
+                     <hi>William Jay</hi> committed 1 <hi>Febr.</hi> 1652. Actions of Treſpaſſe and Attachment.</item>
+                  <item>
+                     <hi>William Bugge</hi> committed 24 <hi>June</hi> 1651. for 463 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions, and ſeverall pleas of Treſpaſſes.</item>
+                  <item>
+                     <hi>Edward Kemp</hi> committed 15 <hi>April</hi> 1653. Execution 42 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions 475 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 9 <abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>William Beeſton</hi> committed 24 <hi>Auguſt</hi> 1652. Outlawry, Treſpaſſe, and Bill <hi>Middleſex.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Wilford</hi> committed 5 <hi>March</hi> 1649. for 2820 <abbr>
+                        <hi>l.</hi>
+                     </abbr> upon Actions.</item>
+                  <item>
+                     <hi>William Lacey</hi> committed 25 <hi>April</hi> 1653. upon Treſpaſſes and At<g ref="char:EOLhyphen"/>tachment prd.</item>
+                  <item>
+                     <hi>Bridget Ga<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nt</hi> committed 17 <hi>Auguſt</hi> 1652. Bill <hi>Middleſex</hi> and At<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>Sir <hi>Thomas Dacre</hi> committed 23 <hi>June</hi> 1652. Execution 607 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> beſides Attachment.</item>
+                  <item>
+                     <hi>Eliſha Hali</hi> committed 27 <hi>Auguſt</hi> 1649. upon an Outlawry and Cap. and no ſum mentioned.</item>
+                  <item>
+                     <hi>William Launden</hi> committed 27 <hi>Jan.</hi> 1651, Execution 2022 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 12<abbr>
+                        <hi>d.</hi>
+                     </abbr> Outlawry, Actions 5200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Tho: Eures</hi> committed 14 <hi>Aug.</hi> 1652. Bill <hi>Middleſex</hi> &amp; Attachment.</item>
+                  <item>
+                     <hi>James Davy</hi> committed 18 <hi>March</hi> 1651. for 81 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution, and 530 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>John Nicholas</hi> committed 19 <hi>May</hi> 1646 for 750 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 9 <abbr>
+                        <hi>s.</hi>
+                     </abbr> upon Action.</item>
+                  <item>
+                     <hi>Moſes Pawley</hi> committed 21 <hi>November</hi> 1651. for 67 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Execution, Actions 130 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſe.</item>
+                  <item>
+                     <hi>Thomas Keneſton</hi> committed 4 <hi>Nov.</hi> 1646. for 51000 Actions, and ſeverall Orders of the Exchequer.</item>
+                  <item>
+                     <hi>Abrezar Hay</hi> committed 4 <hi>Decem.</hi> 1646. Execution 403 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Outlawries and Latitats.</item>
+                  <item>
+                     <hi>Thomas Greſham,</hi> committed 13 December 1648. for 25 <abbr>
+                        <hi>l.</hi>
+                     </abbr> execution and 1040 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action.</item>
+                  <pb n="5" facs="tcp:166546:4"/>
+                  <item>
+                     <hi>George Bing,</hi> committed 12 February 1639. upon two Latitats, and one Outlawry, no ſum appeare.</item>
+                  <item>
+                     <hi>Thomas Capon,</hi> committed 19 May 1652. Execution 402 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſes and attachment.</item>
+                  <item>
+                     <hi>George Bowyer,</hi> committed 12 <hi>Auguſt</hi> 1652. upon Bill, Midd. and Attachment.</item>
+                  <item>
+                     <hi>Maurice Duke,</hi> committed 2 March 1649. upon a decree in Chancery</item>
+                  <item>
+                     <hi>Thomas Maddox,</hi> committed 20 July 1652. upon a Bill of Midd.</item>
+                  <item>
+                     <hi>John Plucknet,</hi> committed 13 March 1651. by order, upon contempt for not performing a Decree in Chancery.</item>
+                  <item>
+                     <hi>John Harper,</hi> committed 31 July 1652. treſpaſſe 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Stevenſon,</hi> committed 20 November 1646 for 2016 <abbr>
+                        <hi>l.</hi>
+                     </abbr> execu<g ref="char:EOLhyphen"/>tion, and 1400 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action.</item>
+                  <item>
+                     <hi>Nathaniel Hawes,</hi> 8 July 1651. for 630 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action, one Outlawry, on Latitat, and an Attachment.</item>
+                  <item>
+                     <hi>William Bold,</hi> committed 1 April 1652. upon 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action, and an A<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>
+                     <hi>Robert Atkinſon,</hi> committed 25 October 1638. for 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action.</item>
+                  <item>
+                     <hi>John Raymont,</hi> committed 17 Febr. 1647. upon a decree in Chancery</item>
+                  <item>
+                     <hi>Agmondſham Pickays,</hi> committed 29 November 1651. upon a Bill of Midd. and Attachment.</item>
+                  <item>Sir <hi>Walter Roberts,</hi> committed 18 November 1651. upon actions 640 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a Bill of Midd. and Attachment.</item>
+                  <item>
+                     <hi>Philip Porter,</hi> committed 31 July 1652. upon action 66 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 17 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Henry Slingsby,</hi> committed 24 January 1652. execution 405 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Judgement 1009 <abbr>
+                        <hi>l.</hi>
+                     </abbr> actions 900 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in one Judgement amongſt the 1009<abbr>
+                        <hi>l.</hi>
+                     </abbr> Judgements in charge there is no plantiffs name returned, and he is charged in the return of his cauſes for 2108 <abbr>l.</abbr> where the plantiffs acknowledge there demand is upon one bond for 130 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and the other to be upon a counterbond, againſt a bond of 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Jonah Lumb,</hi> committed 9 April 1653. upon action 10 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Colyn,</hi> committed 13 October 1651. upon action 200 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Butler,</hi> committed 17 June 1642. upon action 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment prid.</item>
+                  <item>
+                     <hi>Peter Lyons,</hi> committed 17 January 1648. upon action 10 <abbr>l.</abbr> and Bill Midd.</item>
+                  <item>
+                     <hi>John Larch,</hi> committed 7 Auguſt 1652. execution 201 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> action 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>George Payne,</hi> committed 28 April 1649. for 608 <abbr>
+                        <hi>l.</hi>
+                     </abbr> execution, and 2000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action, and an outlawry.</item>
+                  <pb facs="tcp:166546:5"/>
+                  <item>
+                     <hi>Thomas Burges,</hi> committed 24 July 1652. upon action 24 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and At<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>
+                     <hi>Charles Goodhand,</hi> committed 14 July 1652. upon a contempt in Chancery.</item>
+                  <item>
+                     <hi>Peter Rogers,</hi> committed 24 June 1652. upon actions 490 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>Sir <hi>Arthur Gorgs,</hi> committed 21 July 1652. execution 82 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> and 510 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action.</item>
+                  <item>Sir <hi>Humfry Tracy,</hi> committed 21 February 1652. executions 1170 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>s,</hi>
+                     </abbr> actions 3850 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and treſpaſſes.</item>
+                  <item>
+                     <hi>Thomas Sherley,</hi> committed 23 June 1652. upon action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>George Griſley,</hi> committed 8 June 1652. action 200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> &amp; attachment.</item>
+                  <item>
+                     <hi>Robert Connoway,</hi> committed 22 June 1652. execution 262 <abbr>
+                        <hi>l.</hi>
+                     </abbr> action 50<abbr>
+                        <hi>l</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Robert Whitbrooke,</hi> committed 29 April 1653. executions 91 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 9 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d</hi>
+                     </abbr> actions 70 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and treſpaſſes.</item>
+                  <item>
+                     <hi>John Albert,</hi> committed 13 May 1652. action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and treſpaſſe.</item>
+                  <item>
+                     <hi>Robert Slynn,</hi> committed 11 May 1652. action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and attachment.</item>
+                  <item>
+                     <hi>Ralph Latham,</hi> committed 1 May 1652. one Outlawry, and a plea of treſpaſſe.</item>
+                  <item>Sir <hi>Miles Sandys,</hi> committed 23 Sept. 1652. action 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> &amp; treſpaſſes.</item>
+                  <item>
+                     <hi>Henry Derham,</hi> committed 25 June 1650. execution 3921 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 17 <abbr>
+                        <hi>s.</hi>
+                     </abbr> acti<g ref="char:EOLhyphen"/>ons 1156<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> beſides ſeverall attachments in Chancery.</item>
+                  <item>
+                     <hi>John Knapp,</hi> comitted 6 April 1652. upon action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> &amp; attachment</item>
+                  <item>
+                     <hi>Alexander Jenings,</hi> committed 16 April 1651. actions of treſpaſſes, no ſums mentioned.</item>
+                  <item>
+                     <hi>Philip Clarke,</hi> committed 11 Auguſt 1652. execution 63 <abbr>
+                        <hi>l.</hi>
+                     </abbr> actions 104<abbr>
+                        <hi>l</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr> treſpaſſes and attachment.</item>
+                  <item>
+                     <hi>Anne Abernatha,</hi> 4 Febr. 1651. upon a bill of Midd. &amp; attachment.</item>
+                  <item>
+                     <hi>Henry Starkey,</hi> committed 28 January 1651. upon actions 144 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Edward Stockdale,</hi> committed 20 June 1648. for 303 <abbr>
+                        <hi>l.</hi>
+                     </abbr> execution.</item>
+                  <item>
+                     <hi>John White,</hi> committed 14 January 1646. from the Committee of the Revenue.</item>
+                  <item>Sir <hi>Henry Milmay,</hi> committed 9 December 1645. execution 908 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> outrawries after judgement, actions 700 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſes and attachment.</item>
+                  <item>
+                     <hi>Robert Jaſon,</hi> committed 1 July 1650. execution 2829 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr> actions 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides two Latitats, one Outlawry, and ſeverall attach<g ref="char:EOLhyphen"/>ments in Chancery.</item>
+                  <item>
+                     <hi>Thomas Gilford,</hi> 2 December 1651. action 20 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and attachment.</item>
+                  <item>Sir <hi>Henry Frederick Thynn,</hi> committed 19 June 1651. Outlawry 200<abbr>
+                        <hi>l.</hi>
+                     </abbr> actions 1420 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſes and attachment.</item>
+                  <item>
+                     <hi>Tho Snagg,</hi> comitted 9 <hi>April</hi> 1652. execution 242<abbr>
+                        <hi>l.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Outlawries, beſides treſpaſſes</item>
+                  <item>
+                     <hi>Nicholas Archbold,</hi> committed 23 <hi>March</hi> 1652. Actions 584 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr> &amp; attachment.</item>
+                  <pb n="9" facs="tcp:166546:5"/>
+                  <item>
+                     <hi>Elizabeth Adams,</hi> committed Septemb. 10. 1651. upon Acti<g ref="char:EOLhyphen"/>ons 16 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Edward Barrat,</hi> committed July 22. 1651. upon Action 58 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment pr.</item>
+                  <item>
+                     <hi>Edward Broad,</hi> committed Feb. 24. 1650. upon a Bill of <hi>Midl.</hi> and Attachment pr.</item>
+                  <item>
+                     <hi>Daniel Dobbins,</hi> committed May 19. 1651. Execution 605 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes and Attachment.</item>
+                  <item>
+                     <hi>George Carew,</hi> committed Novemb. 29. 1652. Execution 525 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 1030 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>John Busfeild</hi> committed April 14. 1652. Execution <hi>de bene eſſe</hi> 707 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Actions 1650 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>George Johnſon,</hi> committed Jan. 23. 1650. upon Action of 700 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and a <hi>Cap.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Haynes</hi> committed July 10. 1650. Action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and At<g ref="char:EOLhyphen"/>tachment.</item>
+                  <item>
+                     <hi>Richard Moſſe,</hi> committed July 9. 1650. Action 130 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and a mean Preceſs.</item>
+                  <item>
+                     <hi>John Hamerſley,</hi> committed June 19. 1650. upon Action 1730 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 15 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>d.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>John Littlebury,</hi> committed March 31. 1651. upon a contempt out of Chancery.</item>
+                  <item>
+                     <hi>Richard Maleverer,</hi> committed Novem. 25. 1651. upon 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action, two Bills of <hi>Middl.</hi> and Attachment.</item>
+                  <item>
+                     <hi>Edward Reed,</hi> committed March 30. 1653. Exec. 51 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Treſpaſs.</item>
+                  <item>
+                     <hi>William Billaday,</hi> committed May 7. 1650. upon Action 70 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Peter Okeham,</hi> committed Feb. 20. 1649. upon Action 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Bowyer</hi> committed May 4. 1649. Exec. 152 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides ſeveral Outlawries, <hi>Latitats,</hi> and <hi>Cap.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Symonds,</hi> committed Jan. 12. 1648. Exec. for 303 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and 1063 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>Sir <hi>William Smith,</hi> committed Feb. 12. 1652. Exec. 281 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 12 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 1260 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Francis Godfrey,</hi> committed Decemb. 14. 1652. Outlawry af<g ref="char:EOLhyphen"/>ter Judgement.</item>
+                  <item>
+                     <hi>Henry Adys,</hi> committed July 5. 1647. Upon an Action of 40 <abbr>
+                        <hi>l</hi>
+                     </abbr> and a contempt in Chancery.</item>
+                  <item>
+                     <hi>William Sutton,</hi> committed Novemb. 20. 1649. Upon a Plea of Treſpaſs and an Attachment.</item>
+                  <pb n="10" facs="tcp:166546:6"/>
+                  <item>
+                     <hi>Walter Ward,</hi> committed Decemb. 10. 1649. Upon a Decree in Chancery, <hi>&amp; ne exit regn.</hi> and 110 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Debt.</item>
+                  <item>
+                     <hi>James Taylor,</hi> commited Octob. 7. 1652. Upon Actions 212 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Henn,</hi> committed Septemb. 24. 1652. upon a Bill of <hi>Middl.</hi> and Attach. pr.</item>
+                  <item>
+                     <hi>George Dannet,</hi> committed Feb. 11. 1652. Actions 1700 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>John Newton,</hi> committed Feb. 12. 1652. Execution 411 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>George Meade,</hi> committed Aug. 28. 1652. upon 200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action and Attachment.</item>
+                  <item>
+                     <hi>Thomas Levett,</hi> committed June 16. 1646. for 2130 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution, four <hi>Latitats,</hi> and one Outlawry.</item>
+                  <item>
+                     <hi>Ralph Lees,</hi> committed Aug. 20. 1652. for 270 <abbr>
+                        <hi>l.</hi>
+                     </abbr> upon Action.</item>
+                  <item>
+                     <hi>Lucie Fotherley,</hi> committed Feb. 12. 1652. for 449 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Ex<g ref="char:EOLhyphen"/>ecution, and 80 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <item>
+                     <hi>Samuel Busfield,</hi> committed Aug. 14. 1652. upon a <hi>Latitat</hi> and Attachment.</item>
+                  <item>
+                     <hi>William Cole,</hi> committed Aug. 25. 1649. for 203 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Execution, and 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>Simon Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>borne,</hi> committed Aug. 7. 1652. for 140 <abbr>
+                        <hi>l.</hi>
+                     </abbr> upon Actions.</item>
+                  <item>Sir <hi>Robert Whitney</hi> committed May 31. 1652. Execut. 204 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides ſeveral Outlawries, Actions of Treſpaſſes.</item>
+                  <item>
+                     <hi>John Parr,</hi> committed July 21. 1652. upon an Outlawry and two Bills of <hi>Middleſex.</hi>
+                  </item>
+                  <item>Sir <hi>Edward Hartop,</hi> committed May 17. 1652. Outlawry af<g ref="char:EOLhyphen"/>ter Judgement, beſides Treſpaſſes and Attachments.</item>
+                  <item>
+                     <hi>Oliver Page,</hi> committed June 11. 1651. Executions 806 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Judgements 906 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions 8120 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Edward Cragge,</hi> committed May 22. 1634. for 145 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Exe<g ref="char:EOLhyphen"/>cution, and 80 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action, and one Outlawry.</item>
+                  <item>
+                     <hi>Humberſton March,</hi> committed April 16. 1652. upon three Outlawries three <hi>Cap.</hi> in debt, four <hi>Latitats</hi> in Treſpaſs.</item>
+                  <item>
+                     <hi>Francis Cole,</hi> committed Jan. 29. 1652. upon three Bills of <hi>Middle</hi> and Attachment of priviledge.</item>
+                  <item>
+                     <hi>Thomas Lawſon,</hi> committed April 15. 1652. ſor 300 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Acti<g ref="char:EOLhyphen"/>on.</item>
+                  <item>
+                     <hi>John Warner</hi> committed Sept. 11. 1624. for 712 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> execution, and an outlawry after Judgment, and 120 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <pb n="11" facs="tcp:166546:6"/>
+                  <item>
+                     <note n="*" place="margin">He is ſince out upon the Act.</note> Julius Ceſar,} committed April 15. 1652, upon ſeveral Actions of Treſpaſs.</item>
+                  <item>
+                     <hi>Moleneux Audley,</hi> committed Novemb. 27. 1651. Executi<g ref="char:EOLhyphen"/>on 208 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Peacock,</hi> committed Febr. 7. 1637. for 1102 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Execu<g ref="char:EOLhyphen"/>tions and 10 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>
+                     <hi>John Linſicombe,</hi> committed Dec. 20. 1648. for 106 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <item>Sir <hi>Lenthrop Eranck,</hi> committed June 24. 1647. for 105 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <item>
+                     <hi>Samuel Norris,</hi> committed May 7. 1653.</item>
+                  <item>
+                     <hi>George Smithſon,</hi> committed Novemb. 24. 1652. for 203 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Execution, and a Bill of <hi>Midd.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Nevil,</hi> committed May 19. 1653. for 404 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Ex<g ref="char:EOLhyphen"/>ecution.</item>
+                  <item>
+                     <hi>John Syms,</hi> committed May 11. 1653. for 200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Action.</item>
+                  <item>Sir <hi>James Hales,</hi> committed Decemb. 8. 1651. upon ſeveral writs of <hi>Cap.</hi> and Pleas of Treſpaſs, no ſums mentioned:</item>
+                  <item>
+                     <hi>John How,</hi> committed May 11. 1653. for 2011 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Execution, Actions 1300 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>Richard Whitney,</hi> committed May 13. 1653. for 313 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution, Actions 380 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Bill <hi>Midd.</hi> and Attachment.</item>
+                  <item>
+                     <hi>Robert Osboldſton,</hi> committed May 14. 1653. Execution for 4001 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> and Actions 1308 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Henry Sterling</hi> committed May 18. 1653. from the com<g ref="char:EOLhyphen"/>mon pleas Bar for miſdemeanors.</item>
+                  <item>
+                     <hi>Anthony Sterling,</hi> committed May 18. 1653. from the com<g ref="char:EOLhyphen"/>mon pleas Bar for miſdemeanors.</item>
+                  <item>
+                     <hi>Richard Alley,</hi> committed May 18. 1653. for 26000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions.</item>
+                  <item>
+                     <hi>Gabriel Wills,</hi> committed May 19. 1653. for 200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions and Attachment</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lizabeth Vaughan,</hi> committed May 19. 1653. for a contempt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chancery.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ry Buſhel,</hi> committed May 19. 1653. upon Action 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d Attachment pr.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>am Watkins,</hi> committed May 19. 1653. upon a Bill of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Midd.</hi> and Attachment pr.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ry Haſtings,</hi> committed May 20. 1653. Execution 920 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions 1746 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides ſeveral Outlawries and Latitats.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ard Molyns,</hi> committed May 20. 1653. Execution 196 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <abbr>
+                        <hi>s.</hi>
+                     </abbr> and a Latitat</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Joanes,</hi> committed May 23. 1653. 3 Bills <hi>Midd.</hi> At<g ref="char:EOLhyphen"/>tachment out of the Chancery.</item>
+                  <pb n="12" facs="tcp:166546:7"/>
+                  <item>
+                     <hi>John Prentis,</hi> committed May 23. 1653. upon an Outlawry after Judgement, a Cap. a Latitat, and an attachment, no ſums expreſt.</item>
+                  <item>
+                     <hi>Francis Needham</hi> committed May 23. 1653. Execution 252 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Action 700 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Angelets Dey,</hi> committed May 24. 1693. upon a contempt out of the Chancery.</item>
+                  <item>
+                     <hi>John Merreick,</hi> committed June 22. 1652. Execution 22 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>John Watſon,</hi> committed October 10. 1637, for 219 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution, and 448 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions.</item>
+                  <item>
+                     <hi>Chriſtopher Curtis</hi> committed April 30. 1635. for 101 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution and an Attachment of priviledge.</item>
+                  <item>
+                     <hi>William Iames,</hi> committed February 10. 1634. for 27 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 4 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Execution and other mean proceſs.</item>
+                  <item>
+                     <hi>Chriſtopher Barcock,</hi> committed <hi>July</hi> 7. 1642. for 147 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 15 <abbr>
+                        <hi>s.</hi>
+                     </abbr> upon Action.</item>
+                  <item>
+                     <hi>Henry Chriſtmas,</hi> committed June 12, 1646. for 111 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Execution.</item>
+                  <item>
+                     <hi>William Hewet,</hi> committed July 9. 1651. an Outlawry.</item>
+                  <item>
+                     <hi>Richard Harbert,</hi> committed April 2. 1652. Execution 22 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Judgement 81 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 104 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>George Wilſon,</hi> committed Decemb. 27. 1652. upon contempt out of Chancery</item>
+                  <item>
+                     <hi>William Par,</hi> committed May 20. 1652. Execution 822 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 11 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Actions 11640 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>William Tayler,</hi> committed Novemb. 13. 1651. Execution 102 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Outlawry, Action 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>John Salter,</hi> committed Novemb. 22. 1652. Outlawry after Judgement, Action 50 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Favil,</hi> committed Novemb. 15. 1652. Execution 7 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Actions 55 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>Ambroſe Fulſham,</hi> committed Feb. 4. 1652. Action 30 <abbr>
+                        <hi>l.</hi>
+                     </abbr> be<g ref="char:EOLhyphen"/>ſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Iohn Woodcock</hi> committed Feb. 4. 1652. two Latitats.</item>
+                  <item>
+                     <hi>Thomas Grigſon</hi> committed Janua. 12. 1652. Actions 460 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>Iohn Runnyen,</hi> committed June 21. 1648. an Outlawry, action of debt and treſpaſſes, no ſum appearing.</item>
+                  <pb n="13" facs="tcp:166546:7"/>
+                  <item>
+                     <hi>Iohn Reake,</hi> committed May 7. 1651. Execution 227 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 18 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 9 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Actions of debt beſides Treſpaſſes.</item>
+                  <item>
+                     <hi>Iohn Rankin,</hi> committed Sept. 8. 1652. Actions 137 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>Richard Lamb,</hi> committed Octob. 21. 1652. Actions 32 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and Attachment pr.</item>
+                  <item>
+                     <hi>Iohn Porter,</hi> committed Nov. 13. 1652. Execution 120 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 11 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Licence Lloyd.</hi> committed Jan. 1. 1652. Execution 57 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Judge<g ref="char:EOLhyphen"/>ments 7 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 8 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 10 <abbr>
+                        <hi>d.</hi>
+                     </abbr> action 4 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 19. and attachment.</item>
+                  <item>
+                     <hi>Samuel Thropp,</hi> committed Nov. 18. 1652. Execution 23 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>William Chamberlain</hi> committed 5 March 1652. act. 1400 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </item>
+                  <item>
+                     <hi>Thomas Greene</hi> committed Decemb. 13. 1652. actions 159 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and attachment pr.</item>
+                  <item>
+                     <hi>Sara Tyer,</hi> committed May 14. 1651. Upon a contempt out of Chancery.</item>
+                  <item>
+                     <hi>Thomazine Smith</hi> committed June 13. 1646. For 40 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Acti<g ref="char:EOLhyphen"/>on and an order of Chancery.</item>
+                  <item>
+                     <hi>Cicely Pinck,</hi> committed April 9. 1653. Upon a contempt out of the Chancery.</item>
+                  <item>
+                     <hi>Henry Pritty,</hi> committed May 2. 1653. Execution 14 <abbr>
+                        <hi>l</hi>
+                     </abbr> Acti<g ref="char:EOLhyphen"/>ons 204 <abbr>
+                        <hi>l,</hi>
+                     </abbr> 19 <abbr>
+                        <hi>s.</hi>
+                     </abbr> and Attachment.</item>
+                  <item>
+                     <hi>David Jones,</hi> committed May 3. 1653. 100 marks fine for a contempt from the Common Bench.</item>
+                  <item>
+                     <hi>Alice Marſh,</hi> committed April 2. 1649. Executions 167 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Actions 210 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides treſpaſſes.</item>
+                  <item>
+                     <hi>Henry Aſcough,</hi> committed May 24. 1652. Upon a contempt out of the Chancery.</item>
+                  <item>
+                     <hi>Peter Olive,</hi> Feb. 25. 1652. A Bill Midd. and Attachment.</item>
+                  <item>
+                     <hi>William Fox,</hi> committed Feb. 7. 1652. For diſcharge of his Bay <abbr>l.</abbr>
+                  </item>
+                  <item>
+                     <hi>William Dover,</hi> committed March 17. 1652. Action 10 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Attach. pr.</item>
+                  <item>
+                     <hi>Gilbert Havers,</hi> committed Novemb. 13. 1651. Eight Bills Midd. and two Attachments.</item>
+                  <item>
+                     <hi>James Hobart,</hi> committed May 21. 1653. Upon 1107 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 16 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 2 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Execution, Actions 2660 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 3 Latitats, 2 Attach. pr. and one Attach. in Chancery.</item>
+               </list>
+               <closer>
+                  <dateline>The Fleet <date>this 25. of <hi>May,</hi> 1653.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Henry Hopkins</hi> Warden of the Fleet.</signed>
+               </closer>
+            </div>
+            <div type="prisoners_released">
+               <pb n="14" facs="tcp:166546:8"/>
+               <head>A Schedule of the names of ſuch perſons, as being Priſoners to the Fleet, did take their oaths upon the Act of Parliament, for the diſcharging from impriſonment of ſuch poor priſoners as were unable to ſatisfie their Creditors; with the times when, and the perſons before whom they did take their ſaid Oaths.</head>
+               <list>
+                  <item>
+                     <hi>EDward Taskeare,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 10 of April 1650.</item>
+                  <item>
+                     <hi>John Trehern,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 5 of Jan. 1649.</item>
+                  <item>
+                     <hi>Thomas Long,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 27 of March 1650.</item>
+                  <item>
+                     <hi>John Southby,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 27 of March 1650.</item>
+                  <item>
+                     <hi>John Web,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 26 of March 1650.</item>
+                  <item>
+                     <hi>Raph Needle,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 21 of March 1649.</item>
+                  <item>
+                     <hi>Edmond Jenings,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 23 of Feb. 1649.</item>
+                  <item>
+                     <hi>Thomas Gill</hi> ſworn before <hi>M.</hi> Recorder <hi>Steele</hi> the 22 of March 1649.</item>
+                  <item>
+                     <hi>William Fitchard,</hi> alias <hi>Caporne,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 29 March 1650.</item>
+                  <item>
+                     <hi>James Freeze,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 21 March 1649.</item>
+                  <item>
+                     <hi>William Carrington,</hi> ſworn before Mr. Alderman <hi>Andrews</hi> the 9 of Feb. 1649.</item>
+                  <item>
+                     <hi>William Radford,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 23 of May 1650.</item>
+                  <item>
+                     <hi>William Lavington,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 3 Jan. 1649.</item>
+                  <item>
+                     <hi>Lawrence Stickhall,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 8 of Jan. 1649.</item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ous Tokely,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 8 of July 1650.</item>
+                  <pb n="15" facs="tcp:166546:8"/>
+                  <item>
+                     <hi>Robert Cole,</hi> ſworn before Mr. Alderman <hi>Andrews</hi> the 9 of Feb. 1649.</item>
+                  <item>
+                     <hi>Henry Smith,</hi> ſworn before Alderman <hi>Andrews</hi> the 31 of Jan. 1649.</item>
+                  <item>
+                     <hi>Richard Watts,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 20 of July 1650.</item>
+                  <item>
+                     <hi>Henry Nevell,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 17 of July 1650.</item>
+                  <item>
+                     <hi>John Bickley,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 19 of Jan. 1649.</item>
+                  <item>
+                     <hi>Richard Egerton,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 15 July 1650.</item>
+                  <item>
+                     <hi>Samuel Lawrence,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 22 of July 1650.</item>
+                  <item>
+                     <hi>Samuel Benham,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 15 of Sep. 1650.</item>
+                  <item>
+                     <hi>Thomas Milward,</hi> ſworn before Mr. Recorder <hi>Steele</hi> the 9 of Sep. 1650.</item>
+                  <item>
+                     <hi>William Taylor,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 5 of Jan. 1649.</item>
+                  <item>
+                     <hi>John Aſhley,</hi> ſworn before Mr. Alderman <hi>Pennington</hi> the 3 of Jan. 1649.</item>
+                  <item>
+                     <hi>William Hart,</hi> ſworn before M. Alderman <hi>Pennington</hi> the 1 of Nov. 1650.</item>
+                  <item>
+                     <hi>Arnold Spencer,</hi> ſworn before M. Alderman <hi>Pennington</hi> the 2 of Nov. 1650.</item>
+                  <item>
+                     <hi>William Crampe,</hi> ſworn before M. Alderman <hi>Pennington</hi> the 22 of Nov. 1650.</item>
+                  <item>
+                     <hi>Charles Farr,</hi> ſworn before M. Recorder <hi>Steele</hi> the 20 of July 1650.</item>
+                  <item>
+                     <hi>Anthony Santon,</hi> ſworn before M. Recorder <hi>Steele</hi> the 20 of July 1650</item>
+                  <item>
+                     <hi>Francis Williamſon,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 24 of May 1651.</item>
+                  <item>
+                     <hi>William Dycer,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 24 of May 1651.</item>
+                  <item>
+                     <hi>Thomas South,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 24 of May 1651.</item>
+                  <item>
+                     <hi>Edward Rice,</hi> ſworn before M. Recorder <hi>Steele</hi> the 30 of A<g ref="char:EOLhyphen"/>pril 1652.</item>
+                  <item>
+                     <hi>Edward Clovile,</hi> ſworne before M. Alderman <hi>Atkin</hi> the 21 of May 1652.</item>
+                  <pb n="16" facs="tcp:166546:9"/>
+                  <item>
+                     <hi>Thomas Broome,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 8 of May 1652.</item>
+                  <item>
+                     <hi>Robert Griffith,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 8 of May 1652.</item>
+                  <item>
+                     <hi>Alexander Freeman,</hi> having taken his oath upon the ſaid Act when he was priſoner in the upper-bench, being ſince turned o<g ref="char:EOLhyphen"/>ver to the Fleet, had his liberty thereupon on the 8 of May 1652. by <hi>habe as corpus</hi> according to the additionall Act.</item>
+                  <item>
+                     <hi>William Caddy,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 6 of May 1652.</item>
+                  <item>
+                     <hi>Samuel Renskin,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 1 of May 1652.</item>
+                  <item>
+                     <hi>James Eaſt,</hi> ſworn before M. Recorder <hi>Steele</hi> the 25 of March 1652.</item>
+                  <item>
+                     <hi>Edward Higgins,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 14 of June 1652.</item>
+                  <item>
+                     <hi>George Fulwood,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 10 of May 1652.</item>
+                  <item>
+                     <hi>Chriſtopher Powel,</hi> ſworn before M. Recorder <hi>Steele</hi> the 8 of October 1652.</item>
+                  <item>
+                     <hi>Edmond Hurt,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 3 of May 1652.</item>
+                  <item>
+                     <hi>Thomas Weſthropp,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 24 of June 1651.</item>
+                  <item>
+                     <hi>William Snellinge,</hi> ſworn before M. Alderman <hi>Atkin</hi> the 7 of May 1652.</item>
+                  <item>
+                     <hi>Darcy Roades,</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 4 of May 1652.</item>
+                  <item>
+                     <hi>James Meaſy</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 5 of May 1652.</item>
+                  <item>
+                     <hi>Robert Nutting</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 5 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Iohn Ball,</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 1 of June 1652.</item>
+                  <item>
+                     <hi>Margaret Duckett,</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 5 of May 1652.</item>
+                  <item>
+                     <hi>Richard Kempe,</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the 26 of May 1652.</item>
+                  <item>
+                     <hi>John Barnes,</hi> ſworn before <hi>M.</hi> Alderman <hi>Atkin</hi> the the 14 of June 1652.</item>
+                  <item>
+                     <hi>John Reynes,</hi> ſworn before <hi>M.</hi> Recorder <hi>Steele</hi> the 15 of Jan. 1649.</item>
+                  <item>
+                     <hi>Humfry Jones,</hi> ſworne before <hi>M.</hi> Recorder <hi>Steele</hi> the 17 of Jan. 1649.</item>
+                  <item>
+                     <hi>Raph Melliſh,</hi> ſworne before <hi>M.</hi> Recorder <hi>Steele</hi> the 17 of Jan. 1649.</item>
+                  <pb n="17" facs="tcp:166546:9"/>
+                  <item>
+                     <hi>Theophilus Terrell</hi> ſworn before Alderman <hi>Atkin</hi> the 4 of <hi>June</hi> 1652.</item>
+                  <item>
+                     <hi>Nicholas Murford</hi> ſworn before Mr. Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 30 of <hi>June</hi> 1652.</item>
+                  <item>
+                     <hi>Mary Hawtain</hi> ſworn before Mr. Alderman <hi>Atkin</hi> the 22 of <hi>June,</hi> 1652.</item>
+                  <item>Dame <hi>Jane Bennet</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 2 of <hi>July</hi> 1652.</item>
+                  <item>
+                     <hi>Jonathan Farrington</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 16 of <hi>June</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Weeks</hi> ſworn before Mr. Alderman <hi>Atkin</hi> the 5 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Edward Edlyn</hi> ſworn before Mr. Recorder <hi>Steel</hi> the 19 of <hi>January</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Plowman</hi> ſworn before Mr Recorder <hi>Steel</hi> the 19 of <hi>April,</hi> 1650.</item>
+                  <item>
+                     <hi>John Johnſon</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 12 of <hi>July</hi> 1651.</item>
+                  <item>
+                     <hi>Nathanael Johnſon</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 20 of <hi>October</hi> 1652.</item>
+                  <item>
+                     <hi>John Mead</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 6 of <hi>November</hi> 1652.</item>
+                  <item>
+                     <hi>John Warner</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 13 of <hi>December</hi> 1652.</item>
+                  <item>
+                     <hi>Terrell Jocelin</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 26 of <hi>November</hi> 1652.</item>
+                  <item>
+                     <hi>Hugh Bayly</hi> ſworn before Mr Alderman <hi>Pennington</hi> the 3 of <hi>January</hi> 1649.</item>
+                  <item>
+                     <hi>Francis Anguiſh</hi> ſworn before Mr Recorder <hi>Steel</hi> the 22 of <hi>January</hi> 1649.</item>
+                  <item>
+                     <hi>Thomas Ayry</hi> and <hi>William Hawes</hi> ſworn before Mr Recorder <hi>Steel</hi> the 22 of <hi>January</hi> 1649.</item>
+                  <item>
+                     <hi>Henry Hatley</hi> ſworn, before Mr Alderman <hi>Pen<g ref="char:EOLhyphen"/>nington</hi> the 2 of <hi>February</hi> 1649.</item>
+                  <item>
+                     <hi>Joſeph Oliffe</hi> ſworn, before Mr Alderman <hi>Pen<g ref="char:EOLhyphen"/>nington</hi> the 2 of <hi>February</hi> 1649.</item>
+                  <item>
+                     <hi>Thomas Owsby</hi> ſworn before the Recorder <hi>Street</hi> the 21 day of <hi>February</hi> 1649;</item>
+                  <item>
+                     <hi>Henry Beart</hi> ſworn before Mr Recorder <hi>Steel</hi> the 26 of <hi>March</hi> 1650.</item>
+                  <pb n="18" facs="tcp:166546:10"/>
+                  <item>
+                     <hi>John Hanſon</hi> ſworn before Mr Alderman <hi>Pennington</hi> the 30 of <hi>March</hi> 1650.</item>
+                  <item>
+                     <hi>Caſſandra Hawes</hi> ſworn before Mr Recorder <hi>Steel</hi> the 3 of <hi>April</hi> 1650.</item>
+                  <item>
+                     <hi>Robert Davis</hi> ſworn before Mr Recorder <hi>Steel</hi> the 27 of <hi>April</hi> 1650.</item>
+                  <item>
+                     <hi>Henry Shuter</hi> ſworn before Mr Recorder <hi>Steel</hi> the 13 of <hi>July</hi> 1650.</item>
+                  <item>
+                     <hi>William Munning</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 7 of <hi>July</hi> 1652.</item>
+                  <item>
+                     <hi>Gabriel Seamer</hi> ſworn before Alderman <hi>Atkin</hi> the 16 of Auguſt 1652.</item>
+                  <item>
+                     <hi>William Chamberlaine</hi> ſworn before Mr Alderman <hi>Titchborn</hi> the 14 of April 1653.</item>
+                  <item>
+                     <hi>John Morris</hi> ſworn before Mr Recorder <hi>Steel</hi> the 13 of May 1650.</item>
+                  <item>
+                     <hi>John Hooper</hi> ſworn before Mr Alderman <hi>Pennington</hi> the 25 of <hi>May</hi> 1650.</item>
+                  <item>
+                     <hi>Thomas Arundell</hi> ſworn before Mr Alderman <hi>Pen<g ref="char:EOLhyphen"/>nington</hi> the 26 of <hi>June</hi> 1650.</item>
+                  <item>
+                     <hi>Thomas Brewer</hi> ſworn before Mr Alderman <hi>Andrews</hi> the 18 of <hi>July</hi> 1650.</item>
+                  <item>
+                     <hi>John Bartram</hi> ſworn before Mr Recorder <hi>Steele</hi> the 15 of <hi>October</hi> 1650.</item>
+                  <item>
+                     <hi>Thomas Thurloe</hi> ſworn before Mr Recorder <hi>Steele</hi> the 15 of <hi>October</hi> 1650.</item>
+                  <item>
+                     <hi>Robert Hitchwick</hi> ſworn before Mr Recorder <hi>Steele</hi> the 7 of <hi>December</hi> 1650.</item>
+                  <item>
+                     <hi>Thomas Hammond</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 9 of <hi>December</hi> 1650.</item>
+                  <item>
+                     <hi>Thomas Page</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 29 of <hi>March</hi> 1651.</item>
+                  <item>
+                     <hi>Thomas Baker</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 7 of <hi>April</hi> 1651.</item>
+                  <item>
+                     <hi>William Earle</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 12 of <hi>July</hi> 1651.</item>
+                  <item>
+                     <hi>George Kelloway</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 10 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Abraham Beck</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 10 of <hi>May</hi> 1652.</item>
+                  <pb n="19" facs="tcp:166546:10"/>
+                  <item>
+                     <hi>Thomas Breme</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 15 of <hi>February</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Verney</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 24 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Edlyn</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 10 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>John Fletcher</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 22 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Iohn Slatford</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 8 of <hi>Iune</hi> 1652.</item>
+                  <item>
+                     <hi>William Bierley</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 10 of <hi>December</hi> 1652.</item>
+                  <item>
+                     <hi>Nicholas Cupps</hi> ſworn before Mr Recorder <hi>Steel</hi> the 22 of <hi>October</hi> 1650.</item>
+                  <item>
+                     <hi>Guthbert Soprath</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 21 of <hi>Ianuary</hi> 1652.</item>
+                  <item>
+                     <hi>Robert Bryerly</hi> ſworn before Mr Alderman <hi>Penning<g ref="char:EOLhyphen"/>ton</hi> the 7 of <hi>May</hi> 1650.</item>
+                  <item>
+                     <hi>Sidenham Lukins</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 25 of <hi>February</hi> 1652.</item>
+                  <item>
+                     <hi>Iohn Robinſon</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 5 of <hi>December</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Valence</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 28 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Henry Spooner</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 3 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Robert Smith</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 4 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Abraham Rookes</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 30 of <hi>May</hi> 1651.</item>
+                  <item>
+                     <hi>Gregory Bret</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 3 of <hi>Iuly</hi> 1651.</item>
+                  <item>
+                     <hi>George Cheyney</hi> ſworn before Mr Alderman <hi>Atkin</hi> 7 of <hi>Iuly</hi> 1651.</item>
+                  <item>
+                     <hi>Thomas Roberts</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 8 of <hi>September</hi> 1651.</item>
+                  <pb n="20" facs="tcp:166546:11"/>
+                  <item>
+                     <hi>Henry Rawleigh</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 4 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Robert Beckwith</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 7 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Orton Brooker</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 7 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Delſe</hi> and <hi>David Evans.</hi> ſworn before Mr Alderman <hi>At<g ref="char:EOLhyphen"/>kin</hi> the 7 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Thomas Sloman</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 28 of <hi>May</hi> 1652.</item>
+                  <item>
+                     <hi>Julius Caeſar</hi> ſworn before Mr Alderman <hi>Atkins</hi> the 4 of <hi>June</hi> 1652.</item>
+                  <item>
+                     <hi>John Benent</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 6 of <hi>July</hi> 1652.</item>
+                  <item>
+                     <hi>John Buſhell</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 10 of <hi>February</hi> 1652.</item>
+                  <item>
+                     <hi>John Roak</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 17 of <hi>February</hi> 1652.</item>
+                  <item>
+                     <hi>William Ellis</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 11 of <hi>April</hi> 1653.</item>
+                  <item>
+                     <hi>Thomas Snag</hi> ſworn before Mr Alderman <hi>Atkin</hi> the 16 of <hi>April</hi> 1653.</item>
+                  <item>
+                     <hi>Matthew Allen</hi> ſworn before Mr Alderman <hi>Allen</hi> the 30 of <hi>May</hi> 1653.</item>
+               </list>
+               <closer>
+                  <dateline>
+                     <hi>Fleet this firſt day of</hi> 
+                     <date>
+                        <hi>June</hi> 1653</date>
+                  </dateline>
+                  <signed>HENRY HOPKINS Warden of the Fleet.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>This latter Liſt of ſuch priſoners as are gone out of the Fleet, having taken the benefit of the Act of Parliament, for the relief of poore priſoners; with the names of the perſons before whom they took their Oath: Is publiſhed to the end that if any perſon hath taken the benefit of that Act of Parliament, which ought not, either by conceal<g ref="char:EOLhyphen"/>ing on making over their Eſtates, at or before their taking the Oath to defraud their Creditors, it being made appear their Creditors juſt relief will be endeavoured therein.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
